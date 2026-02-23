@@ -35,3 +35,7 @@ Models used:
 
 
 Note to reader: This project was set by Rockborne's advanced data training programme. For this project, the dataset from kaggle was split by the course supervisor- to data and unseen data. With the unseen data, we submit our predictions using our model, which is then evaluated by the course supervisor.
+
+
+# IMPORTANT UPDATE:
+There are two notebook files in which the project can be found: 'Regression_project.ipynb' and 'Regression_project_final.ipynb'. 'Regression_project_final.ipynb' is the final project with one important but simple step I overlooked: that was too log transform the fatalities column. The predictions for this final file are contained within Aminoor_Rhaman_aviation_prediction2.

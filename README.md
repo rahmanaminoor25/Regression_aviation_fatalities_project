@@ -34,3 +34,4 @@ Models used:
 - Gradient boosted regression
 
 
+Note to reader: This project was set by Rockborne's advanced data training programme. For this project, the dataset from kaggle was split by the course supervisor- to data and unseen data. With the unseen data, we submit our predictions using our model, which is then evaluated by the course supervisor.
